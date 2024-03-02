@@ -78,3 +78,15 @@ To learn more about React Native, take a look at the following resources:
 - [Blog](https://reactnative.dev/blog) - read the latest official React Native **Blog** posts.
 - [`@facebook/react-native`](https://github.com/facebook/react-native) - the Open Source; GitHub **repository** for React Native.
 # GifsDemo
+
+
+## Apparoch
+
+-To enhance readability and maintainability, I adopted a structured approach to organize the project's files and directories. This involved creating separate folders for different components of the application, such as screens, APIs, and utility functions.
+
+## Google
+
+-Researched about displaying GIFs in React Native apps and explored available libraries for star ratings in React Native
+
+## Time taken
+-4.5 hours (project setup took a lot of time)
